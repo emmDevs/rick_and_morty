@@ -22,8 +22,5 @@ export default {
 
 <style>
 
-img{
-    width:100px;
-}
 
 </style>

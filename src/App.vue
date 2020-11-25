@@ -43,4 +43,9 @@ export default {
     display: flex;
     justify-content: space-between;
   }
+
+  #avatar{
+    width:100px;
+}
+
 </style>
